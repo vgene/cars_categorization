@@ -1,0 +1,1605 @@
+Creating leveldb...
+I0928 17:23:14.528643  1703 convert_imageset.cpp:82] A total of 509245 images.
+I0928 17:23:14.529006  1703 db_lmdb.cpp:22] Opened lmdb jd/imagenet_train_leveldb
+E0928 17:23:17.054772  1703 convert_imageset.cpp:143] Processed 1000 files.
+E0928 17:23:19.529963  1703 convert_imageset.cpp:143] Processed 2000 files.
+E0928 17:23:22.297247  1703 convert_imageset.cpp:143] Processed 3000 files.
+E0928 17:23:25.114099  1703 convert_imageset.cpp:143] Processed 4000 files.
+E0928 17:23:27.802345  1703 convert_imageset.cpp:143] Processed 5000 files.
+E0928 17:23:30.335805  1703 convert_imageset.cpp:143] Processed 6000 files.
+E0928 17:23:40.781927  1703 convert_imageset.cpp:143] Processed 7000 files.
+E0928 17:23:46.023900  1703 convert_imageset.cpp:143] Processed 8000 files.
+E0928 17:23:48.640738  1703 convert_imageset.cpp:143] Processed 9000 files.
+E0928 17:23:51.224277  1703 convert_imageset.cpp:143] Processed 10000 files.
+E0928 17:23:54.179078  1703 convert_imageset.cpp:143] Processed 11000 files.
+E0928 17:23:57.120885  1703 convert_imageset.cpp:143] Processed 12000 files.
+E0928 17:23:59.746062  1703 convert_imageset.cpp:143] Processed 13000 files.
+E0928 17:24:02.296259  1703 convert_imageset.cpp:143] Processed 14000 files.
+E0928 17:24:05.046421  1703 convert_imageset.cpp:143] Processed 15000 files.
+E0928 17:24:07.930368  1703 convert_imageset.cpp:143] Processed 16000 files.
+E0928 17:24:10.597239  1703 convert_imageset.cpp:143] Processed 17000 files.
+E0928 17:24:13.206233  1703 convert_imageset.cpp:143] Processed 18000 files.
+E0928 17:24:16.014724  1703 convert_imageset.cpp:143] Processed 19000 files.
+E0928 17:24:26.983350  1703 convert_imageset.cpp:143] Processed 20000 files.
+E0928 17:24:35.799831  1703 convert_imageset.cpp:143] Processed 21000 files.
+E0928 17:24:38.359838  1703 convert_imageset.cpp:143] Processed 22000 files.
+E0928 17:24:41.186511  1703 convert_imageset.cpp:143] Processed 23000 files.
+E0928 17:24:44.004856  1703 convert_imageset.cpp:143] Processed 24000 files.
+E0928 17:24:46.631553  1703 convert_imageset.cpp:143] Processed 25000 files.
+E0928 17:24:49.266583  1703 convert_imageset.cpp:143] Processed 26000 files.
+E0928 17:24:52.082005  1703 convert_imageset.cpp:143] Processed 27000 files.
+E0928 17:24:55.008662  1703 convert_imageset.cpp:143] Processed 28000 files.
+E0928 17:24:57.657449  1703 convert_imageset.cpp:143] Processed 29000 files.
+E0928 17:25:00.406185  1703 convert_imageset.cpp:143] Processed 30000 files.
+E0928 17:25:08.796733  1703 convert_imageset.cpp:143] Processed 31000 files.
+E0928 17:25:16.525153  1703 convert_imageset.cpp:143] Processed 32000 files.
+E0928 17:25:19.151852  1703 convert_imageset.cpp:143] Processed 33000 files.
+E0928 17:25:21.828526  1703 convert_imageset.cpp:143] Processed 34000 files.
+E0928 17:25:24.764034  1703 convert_imageset.cpp:143] Processed 35000 files.
+E0928 17:25:27.632339  1703 convert_imageset.cpp:143] Processed 36000 files.
+E0928 17:25:30.217388  1703 convert_imageset.cpp:143] Processed 37000 files.
+E0928 17:25:33.044049  1703 convert_imageset.cpp:143] Processed 38000 files.
+E0928 17:25:35.895714  1703 convert_imageset.cpp:143] Processed 39000 files.
+E0928 17:25:38.589076  1703 convert_imageset.cpp:143] Processed 40000 files.
+E0928 17:25:41.282934  1703 convert_imageset.cpp:143] Processed 41000 files.
+E0928 17:25:44.061595  1703 convert_imageset.cpp:143] Processed 42000 files.
+E0928 17:25:46.988246  1703 convert_imageset.cpp:143] Processed 43000 files.
+E0928 17:25:50.454514  1703 convert_imageset.cpp:143] Processed 44000 files.
+E0928 17:26:05.470682  1703 convert_imageset.cpp:143] Processed 45000 files.
+E0928 17:26:08.161155  1703 convert_imageset.cpp:143] Processed 46000 files.
+E0928 17:26:10.996143  1703 convert_imageset.cpp:143] Processed 47000 files.
+E0928 17:26:13.647819  1703 convert_imageset.cpp:143] Processed 48000 files.
+E0928 17:26:16.199520  1703 convert_imageset.cpp:143] Processed 49000 files.
+E0928 17:26:19.009537  1703 convert_imageset.cpp:143] Processed 50000 files.
+E0928 17:26:21.852864  1703 convert_imageset.cpp:143] Processed 51000 files.
+E0928 17:26:24.413406  1703 convert_imageset.cpp:143] Processed 52000 files.
+E0928 17:26:26.965108  1703 convert_imageset.cpp:143] Processed 53000 files.
+E0928 17:26:29.758446  1703 convert_imageset.cpp:143] Processed 54000 files.
+E0928 17:26:32.660099  1703 convert_imageset.cpp:143] Processed 55000 files.
+E0928 17:26:35.286797  1703 convert_imageset.cpp:143] Processed 56000 files.
+E0928 17:26:47.835477  1703 convert_imageset.cpp:143] Processed 57000 files.
+E0928 17:26:50.728858  1703 convert_imageset.cpp:143] Processed 58000 files.
+E0928 17:26:53.485916  1703 convert_imageset.cpp:143] Processed 59000 files.
+E0928 17:26:56.104292  1703 convert_imageset.cpp:143] Processed 60000 files.
+E0928 17:26:58.830957  1703 convert_imageset.cpp:143] Processed 61000 files.
+E0928 17:27:01.679710  1703 convert_imageset.cpp:143] Processed 62000 files.
+E0928 17:27:04.481394  1703 convert_imageset.cpp:143] Processed 63000 files.
+E0928 17:27:06.983106  1703 convert_imageset.cpp:143] Processed 64000 files.
+E0928 17:27:09.618626  1703 convert_imageset.cpp:143] Processed 65000 files.
+E0928 17:27:12.503630  1703 convert_imageset.cpp:143] Processed 66000 files.
+E0928 17:27:15.288630  1703 convert_imageset.cpp:143] Processed 67000 files.
+E0928 17:27:17.865339  1703 convert_imageset.cpp:143] Processed 68000 files.
+E0928 17:27:28.755904  1703 convert_imageset.cpp:143] Processed 69000 files.
+E0928 17:27:34.780169  1703 convert_imageset.cpp:143] Processed 70000 files.
+E0928 17:27:37.406854  1703 convert_imageset.cpp:143] Processed 71000 files.
+E0928 17:27:39.958570  1703 convert_imageset.cpp:143] Processed 72000 files.
+E0928 17:27:42.660259  1703 convert_imageset.cpp:143] Processed 73000 files.
+E0928 17:27:45.579087  1703 convert_imageset.cpp:143] Processed 74000 files.
+E0928 17:27:48.272423  1703 convert_imageset.cpp:143] Processed 75000 files.
+E0928 17:27:50.815794  1703 convert_imageset.cpp:143] Processed 76000 files.
+E0928 17:27:53.567495  1703 convert_imageset.cpp:143] Processed 77000 files.
+E0928 17:27:56.427530  1703 convert_imageset.cpp:143] Processed 78000 files.
+E0928 17:27:59.095856  1703 convert_imageset.cpp:143] Processed 79000 files.
+E0928 17:28:01.661321  1703 convert_imageset.cpp:143] Processed 80000 files.
+E0928 17:28:04.537950  1703 convert_imageset.cpp:143] Processed 81000 files.
+E0928 17:28:16.111759  1703 convert_imageset.cpp:143] Processed 82000 files.
+E0928 17:28:19.800106  1703 convert_imageset.cpp:143] Processed 83000 files.
+E0928 17:28:22.401784  1703 convert_imageset.cpp:143] Processed 84000 files.
+E0928 17:28:25.303447  1703 convert_imageset.cpp:143] Processed 85000 files.
+E0928 17:28:28.163455  1703 convert_imageset.cpp:143] Processed 86000 files.
+E0928 17:28:30.748477  1703 convert_imageset.cpp:143] Processed 87000 files.
+E0928 17:28:33.517313  1703 convert_imageset.cpp:143] Processed 88000 files.
+E0928 17:28:36.402323  1703 convert_imageset.cpp:143] Processed 89000 files.
+E0928 17:28:39.253974  1703 convert_imageset.cpp:143] Processed 90000 files.
+E0928 17:28:41.914008  1703 convert_imageset.cpp:143] Processed 91000 files.
+E0928 17:28:44.657346  1703 convert_imageset.cpp:143] Processed 92000 files.
+E0928 17:28:47.500680  1703 convert_imageset.cpp:143] Processed 93000 files.
+E0928 17:28:59.532827  1703 convert_imageset.cpp:143] Processed 94000 files.
+E0928 17:29:02.228143  1703 convert_imageset.cpp:143] Processed 95000 files.
+E0928 17:29:04.888670  1703 convert_imageset.cpp:143] Processed 96000 files.
+E0928 17:29:07.781996  1703 convert_imageset.cpp:143] Processed 97000 files.
+E0928 17:29:10.491982  1703 convert_imageset.cpp:143] Processed 98000 files.
+E0928 17:29:13.110373  1703 convert_imageset.cpp:143] Processed 99000 files.
+E0928 17:29:15.931239  1703 convert_imageset.cpp:143] Processed 100000 files.
+E0928 17:29:18.791213  1703 convert_imageset.cpp:143] Processed 101000 files.
+E0928 17:29:21.684546  1703 convert_imageset.cpp:143] Processed 102000 files.
+E0928 17:29:24.277912  1703 convert_imageset.cpp:143] Processed 103000 files.
+E0928 17:29:27.079566  1703 convert_imageset.cpp:143] Processed 104000 files.
+E0928 17:29:31.144837  1703 convert_imageset.cpp:143] Processed 105000 files.
+E0928 17:29:44.904865  1703 convert_imageset.cpp:143] Processed 106000 files.
+E0928 17:29:47.811921  1703 convert_imageset.cpp:143] Processed 107000 files.
+E0928 17:29:50.929319  1703 convert_imageset.cpp:143] Processed 108000 files.
+E0928 17:29:54.435843  1703 convert_imageset.cpp:143] Processed 109000 files.
+E0928 17:29:57.212491  1703 convert_imageset.cpp:143] Processed 110000 files.
+E0928 17:29:59.911278  1703 convert_imageset.cpp:143] Processed 111000 files.
+E0928 17:30:02.821266  1703 convert_imageset.cpp:143] Processed 112000 files.
+E0928 17:30:05.723438  1703 convert_imageset.cpp:143] Processed 113000 files.
+E0928 17:30:08.291800  1703 convert_imageset.cpp:143] Processed 114000 files.
+E0928 17:30:11.012157  1703 convert_imageset.cpp:143] Processed 115000 files.
+E0928 17:30:13.963794  1703 convert_imageset.cpp:143] Processed 116000 files.
+E0928 17:30:25.464360  1703 convert_imageset.cpp:143] Processed 117000 files.
+E0928 17:30:30.955648  1703 convert_imageset.cpp:143] Processed 118000 files.
+E0928 17:30:33.784314  1703 convert_imageset.cpp:143] Processed 119000 files.
+E0928 17:30:36.619849  1703 convert_imageset.cpp:143] Processed 120000 files.
+E0928 17:30:39.288190  1703 convert_imageset.cpp:143] Processed 121000 files.
+E0928 17:30:41.856546  1703 convert_imageset.cpp:143] Processed 122000 files.
+E0928 17:30:44.566582  1703 convert_imageset.cpp:143] Processed 123000 files.
+E0928 17:30:47.393249  1703 convert_imageset.cpp:143] Processed 124000 files.
+E0928 17:30:50.120445  1703 convert_imageset.cpp:143] Processed 125000 files.
+E0928 17:30:52.697129  1703 convert_imageset.cpp:143] Processed 126000 files.
+E0928 17:30:55.362038  1703 convert_imageset.cpp:143] Processed 127000 files.
+E0928 17:30:58.328395  1703 convert_imageset.cpp:143] Processed 128000 files.
+E0928 17:31:01.315863  1703 convert_imageset.cpp:143] Processed 129000 files.
+E0928 17:31:11.169713  1703 convert_imageset.cpp:143] Processed 130000 files.
+E0928 17:31:16.916229  1703 convert_imageset.cpp:143] Processed 131000 files.
+E0928 17:31:20.026170  1703 convert_imageset.cpp:143] Processed 132000 files.
+E0928 17:31:22.911171  1703 convert_imageset.cpp:143] Processed 133000 files.
+E0928 17:31:25.861956  1703 convert_imageset.cpp:143] Processed 134000 files.
+E0928 17:31:28.621929  1703 convert_imageset.cpp:143] Processed 135000 files.
+E0928 17:31:31.565222  1703 convert_imageset.cpp:143] Processed 136000 files.
+E0928 17:31:34.396143  1703 convert_imageset.cpp:143] Processed 137000 files.
+E0928 17:31:37.139483  1703 convert_imageset.cpp:143] Processed 138000 files.
+E0928 17:31:40.116125  1703 convert_imageset.cpp:143] Processed 139000 files.
+E0928 17:31:42.884461  1703 convert_imageset.cpp:143] Processed 140000 files.
+E0928 17:31:45.661159  1703 convert_imageset.cpp:143] Processed 141000 files.
+E0928 17:31:48.596650  1703 convert_imageset.cpp:143] Processed 142000 files.
+E0928 17:32:05.488011  1703 convert_imageset.cpp:143] Processed 143000 files.
+E0928 17:32:08.415154  1703 convert_imageset.cpp:143] Processed 144000 files.
+E0928 17:32:11.391800  1703 convert_imageset.cpp:143] Processed 145000 files.
+E0928 17:32:14.251796  1703 convert_imageset.cpp:143] Processed 146000 files.
+E0928 17:32:16.970150  1703 convert_imageset.cpp:143] Processed 147000 files.
+E0928 17:32:19.846798  1703 convert_imageset.cpp:143] Processed 148000 files.
+E0928 17:32:22.807299  1703 convert_imageset.cpp:143] Processed 149000 files.
+E0928 17:32:25.642297  1703 convert_imageset.cpp:143] Processed 150000 files.
+E0928 17:32:28.427299  1703 convert_imageset.cpp:143] Processed 151000 files.
+E0928 17:32:31.303952  1703 convert_imageset.cpp:143] Processed 152000 files.
+E0928 17:32:34.230625  1703 convert_imageset.cpp:143] Processed 153000 files.
+E0928 17:32:36.982326  1703 convert_imageset.cpp:143] Processed 154000 files.
+E0928 17:32:53.890859  1703 convert_imageset.cpp:143] Processed 155000 files.
+E0928 17:32:56.834149  1703 convert_imageset.cpp:143] Processed 156000 files.
+E0928 17:32:59.661331  1703 convert_imageset.cpp:143] Processed 157000 files.
+E0928 17:33:02.387991  1703 convert_imageset.cpp:143] Processed 158000 files.
+E0928 17:33:05.273008  1703 convert_imageset.cpp:143] Processed 159000 files.
+E0928 17:33:08.221753  1703 convert_imageset.cpp:143] Processed 160000 files.
+E0928 17:33:10.998419  1703 convert_imageset.cpp:143] Processed 161000 files.
+E0928 17:33:13.775099  1703 convert_imageset.cpp:143] Processed 162000 files.
+E0928 17:33:16.693425  1703 convert_imageset.cpp:143] Processed 163000 files.
+E0928 17:33:19.420109  1703 convert_imageset.cpp:143] Processed 164000 files.
+E0928 17:33:22.230612  1703 convert_imageset.cpp:143] Processed 165000 files.
+E0928 17:33:25.207267  1703 convert_imageset.cpp:143] Processed 166000 files.
+E0928 17:33:34.364549  1703 convert_imageset.cpp:143] Processed 167000 files.
+E0928 17:33:42.290766  1703 convert_imageset.cpp:143] Processed 168000 files.
+E0928 17:33:45.034116  1703 convert_imageset.cpp:143] Processed 169000 files.
+E0928 17:33:47.977419  1703 convert_imageset.cpp:143] Processed 170000 files.
+E0928 17:33:50.904063  1703 convert_imageset.cpp:143] Processed 171000 files.
+E0928 17:33:53.702880  1703 convert_imageset.cpp:143] Processed 172000 files.
+E0928 17:33:56.646183  1703 convert_imageset.cpp:143] Processed 173000 files.
+E0928 17:34:00.253126  1703 convert_imageset.cpp:143] Processed 174000 files.
+E0928 17:34:03.315156  1703 convert_imageset.cpp:143] Processed 175000 files.
+E0928 17:34:06.305539  1703 convert_imageset.cpp:143] Processed 176000 files.
+E0928 17:34:15.076198  1703 convert_imageset.cpp:143] Processed 177000 files.
+E0928 17:34:25.184510  1703 convert_imageset.cpp:143] Processed 178000 files.
+E0928 17:34:28.274890  1703 convert_imageset.cpp:143] Processed 179000 files.
+E0928 17:34:31.236857  1703 convert_imageset.cpp:143] Processed 180000 files.
+E0928 17:34:34.239043  1703 convert_imageset.cpp:143] Processed 181000 files.
+E0928 17:34:37.090713  1703 convert_imageset.cpp:143] Processed 182000 files.
+E0928 17:34:40.075695  1703 convert_imageset.cpp:143] Processed 183000 files.
+E0928 17:34:42.969033  1703 convert_imageset.cpp:143] Processed 184000 files.
+E0928 17:34:45.887344  1703 convert_imageset.cpp:143] Processed 185000 files.
+E0928 17:34:48.830662  1703 convert_imageset.cpp:143] Processed 186000 files.
+E0928 17:34:51.674501  1703 convert_imageset.cpp:143] Processed 187000 files.
+E0928 17:34:54.817800  1703 convert_imageset.cpp:143] Processed 188000 files.
+E0928 17:35:04.583647  1703 convert_imageset.cpp:143] Processed 189000 files.
+E0928 17:35:12.422840  1703 convert_imageset.cpp:143] Processed 190000 files.
+E0928 17:35:15.474480  1703 convert_imageset.cpp:143] Processed 191000 files.
+E0928 17:35:18.464893  1703 convert_imageset.cpp:143] Processed 192000 files.
+E0928 17:35:21.433202  1703 convert_imageset.cpp:143] Processed 193000 files.
+E0928 17:35:24.377039  1703 convert_imageset.cpp:143] Processed 194000 files.
+E0928 17:35:27.353682  1703 convert_imageset.cpp:143] Processed 195000 files.
+E0928 17:35:30.280311  1703 convert_imageset.cpp:143] Processed 196000 files.
+E0928 17:35:33.181998  1703 convert_imageset.cpp:143] Processed 197000 files.
+E0928 17:35:36.175312  1703 convert_imageset.cpp:143] Processed 198000 files.
+E0928 17:35:39.160277  1703 convert_imageset.cpp:143] Processed 199000 files.
+E0928 17:35:42.237438  1703 convert_imageset.cpp:143] Processed 200000 files.
+E0928 17:35:46.763923  1703 convert_imageset.cpp:143] Processed 201000 files.
+E0928 17:36:00.596388  1703 convert_imageset.cpp:143] Processed 202000 files.
+E0928 17:36:03.495127  1703 convert_imageset.cpp:143] Processed 203000 files.
+E0928 17:36:06.505118  1703 convert_imageset.cpp:143] Processed 204000 files.
+E0928 17:36:09.573923  1703 convert_imageset.cpp:143] Processed 205000 files.
+E0928 17:36:12.525569  1703 convert_imageset.cpp:143] Processed 206000 files.
+E0928 17:36:15.477231  1703 convert_imageset.cpp:143] Processed 207000 files.
+E0928 17:36:18.428874  1703 convert_imageset.cpp:143] Processed 208000 files.
+E0928 17:36:21.807482  1703 convert_imageset.cpp:143] Processed 209000 files.
+E0928 17:36:24.809638  1703 convert_imageset.cpp:143] Processed 210000 files.
+E0928 17:36:27.802963  1703 convert_imageset.cpp:143] Processed 211000 files.
+E0928 17:36:30.704597  1703 convert_imageset.cpp:143] Processed 212000 files.
+E0928 17:36:35.429322  1703 convert_imageset.cpp:143] Processed 213000 files.
+E0928 17:36:48.023411  1703 convert_imageset.cpp:143] Processed 214000 files.
+E0928 17:36:50.980499  1703 convert_imageset.cpp:143] Processed 215000 files.
+E0928 17:36:53.832162  1703 convert_imageset.cpp:143] Processed 216000 files.
+E0928 17:36:56.917141  1703 convert_imageset.cpp:143] Processed 217000 files.
+E0928 17:37:03.256229  1703 convert_imageset.cpp:143] Processed 218000 files.
+E0928 17:37:06.191225  1703 convert_imageset.cpp:143] Processed 219000 files.
+E0928 17:37:09.201198  1703 convert_imageset.cpp:143] Processed 220000 files.
+E0928 17:37:12.286209  1703 convert_imageset.cpp:143] Processed 221000 files.
+E0928 17:37:17.710893  1703 convert_imageset.cpp:143] Processed 222000 files.
+E0928 17:37:25.283923  1703 convert_imageset.cpp:143] Processed 223000 files.
+E0928 17:37:28.426293  1703 convert_imageset.cpp:143] Processed 224000 files.
+E0928 17:37:31.466199  1703 convert_imageset.cpp:143] Processed 225000 files.
+E0928 17:37:34.643333  1703 convert_imageset.cpp:143] Processed 226000 files.
+E0928 17:37:37.938602  1703 convert_imageset.cpp:143] Processed 227000 files.
+E0928 17:37:41.123567  1703 convert_imageset.cpp:143] Processed 228000 files.
+E0928 17:37:44.158550  1703 convert_imageset.cpp:143] Processed 229000 files.
+E0928 17:37:47.093536  1703 convert_imageset.cpp:143] Processed 230000 files.
+E0928 17:37:50.295677  1703 convert_imageset.cpp:143] Processed 231000 files.
+E0928 17:37:53.505630  1703 convert_imageset.cpp:143] Processed 232000 files.
+E0928 17:37:56.665581  1703 convert_imageset.cpp:143] Processed 233000 files.
+E0928 17:38:09.666251  1703 convert_imageset.cpp:143] Processed 234000 files.
+E0928 17:38:12.811563  1703 convert_imageset.cpp:143] Processed 235000 files.
+E0928 17:38:15.804862  1703 convert_imageset.cpp:143] Processed 236000 files.
+E0928 17:38:18.942329  1703 convert_imageset.cpp:143] Processed 237000 files.
+E0928 17:38:22.002317  1703 convert_imageset.cpp:143] Processed 238000 files.
+E0928 17:38:25.245602  1703 convert_imageset.cpp:143] Processed 239000 files.
+E0928 17:38:28.365896  1703 convert_imageset.cpp:143] Processed 240000 files.
+E0928 17:38:31.518040  1703 convert_imageset.cpp:143] Processed 241000 files.
+E0928 17:38:34.766243  1703 convert_imageset.cpp:143] Processed 242000 files.
+E0928 17:38:37.876714  1703 convert_imageset.cpp:143] Processed 243000 files.
+E0928 17:38:40.945022  1703 convert_imageset.cpp:143] Processed 244000 files.
+E0928 17:38:58.287680  1703 convert_imageset.cpp:143] Processed 245000 files.
+E0928 17:39:01.329944  1703 convert_imageset.cpp:143] Processed 246000 files.
+E0928 17:39:04.530051  1703 convert_imageset.cpp:143] Processed 247000 files.
+E0928 17:39:07.734864  1703 convert_imageset.cpp:143] Processed 248000 files.
+E0928 17:39:10.676638  1703 convert_imageset.cpp:143] Processed 249000 files.
+E0928 17:39:13.710125  1703 convert_imageset.cpp:143] Processed 250000 files.
+E0928 17:39:16.868566  1703 convert_imageset.cpp:143] Processed 251000 files.
+E0928 17:39:19.935365  1703 convert_imageset.cpp:143] Processed 252000 files.
+E0928 17:39:22.902166  1703 convert_imageset.cpp:143] Processed 253000 files.
+E0928 17:39:26.077278  1703 convert_imageset.cpp:143] Processed 254000 files.
+E0928 17:39:29.110761  1703 convert_imageset.cpp:143] Processed 255000 files.
+E0928 17:39:37.721263  1703 convert_imageset.cpp:143] Processed 256000 files.
+E0928 17:39:52.674391  1703 convert_imageset.cpp:143] Processed 257000 files.
+E0928 17:39:56.116672  1703 convert_imageset.cpp:143] Processed 258000 files.
+E0928 17:39:59.350114  1703 convert_imageset.cpp:143] Processed 259000 files.
+E0928 17:40:01.741978  1703 convert_imageset.cpp:143] Processed 260000 files.
+E0928 17:40:03.967200  1703 convert_imageset.cpp:143] Processed 261000 files.
+E0928 17:40:06.225769  1703 convert_imageset.cpp:143] Processed 262000 files.
+E0928 17:40:08.459318  1703 convert_imageset.cpp:143] Processed 263000 files.
+E0928 17:40:10.692858  1703 convert_imageset.cpp:143] Processed 264000 files.
+E0928 17:40:12.951441  1703 convert_imageset.cpp:143] Processed 265000 files.
+E0928 17:40:15.176677  1703 convert_imageset.cpp:143] Processed 266000 files.
+E0928 17:40:22.285516  1703 convert_imageset.cpp:143] Processed 267000 files.
+E0928 17:40:32.243288  1703 convert_imageset.cpp:143] Processed 268000 files.
+E0928 17:40:34.339856  1703 convert_imageset.cpp:143] Processed 269000 files.
+E0928 17:40:36.548416  1703 convert_imageset.cpp:143] Processed 270000 files.
+E0928 17:40:38.781966  1703 convert_imageset.cpp:143] Processed 271000 files.
+E0928 17:40:41.007215  1703 convert_imageset.cpp:143] Processed 272000 files.
+E0928 17:40:43.115787  1703 convert_imageset.cpp:143] Processed 273000 files.
+E0928 17:40:45.512333  1703 convert_imageset.cpp:143] Processed 274000 files.
+E0928 17:40:47.713037  1703 convert_imageset.cpp:143] Processed 275000 files.
+E0928 17:40:49.963237  1703 convert_imageset.cpp:143] Processed 276000 files.
+E0928 17:40:52.263489  1703 convert_imageset.cpp:143] Processed 277000 files.
+E0928 17:40:54.614181  1703 convert_imageset.cpp:143] Processed 278000 files.
+E0928 17:40:56.947732  1703 convert_imageset.cpp:143] Processed 279000 files.
+E0928 17:40:59.114629  1703 convert_imageset.cpp:143] Processed 280000 files.
+E0928 17:41:01.414835  1703 convert_imageset.cpp:143] Processed 281000 files.
+E0928 17:41:03.940031  1703 convert_imageset.cpp:143] Processed 282000 files.
+E0928 17:41:19.268880  1703 convert_imageset.cpp:143] Processed 283000 files.
+E0928 17:41:21.635753  1703 convert_imageset.cpp:143] Processed 284000 files.
+E0928 17:41:24.106777  1703 convert_imageset.cpp:143] Processed 285000 files.
+E0928 17:41:26.715270  1703 convert_imageset.cpp:143] Processed 286000 files.
+E0928 17:41:29.315498  1703 convert_imageset.cpp:143] Processed 287000 files.
+E0928 17:41:31.773991  1703 convert_imageset.cpp:143] Processed 288000 files.
+E0928 17:41:34.357517  1703 convert_imageset.cpp:143] Processed 289000 files.
+E0928 17:41:36.754045  1703 convert_imageset.cpp:143] Processed 290000 files.
+E0928 17:41:39.262575  1703 convert_imageset.cpp:143] Processed 291000 files.
+E0928 17:41:41.846114  1703 convert_imageset.cpp:143] Processed 292000 files.
+E0928 17:41:44.387959  1703 convert_imageset.cpp:143] Processed 293000 files.
+E0928 17:41:47.054800  1703 convert_imageset.cpp:143] Processed 294000 files.
+E0928 17:41:49.654978  1703 convert_imageset.cpp:143] Processed 295000 files.
+E0928 17:41:52.046847  1703 convert_imageset.cpp:143] Processed 296000 files.
+E0928 17:42:00.334923  1703 convert_imageset.cpp:143] Processed 297000 files.
+E0928 17:42:08.976966  1703 convert_imageset.cpp:143] Processed 298000 files.
+E0928 17:42:11.427657  1703 convert_imageset.cpp:143] Processed 299000 files.
+E0928 17:42:13.869518  1703 convert_imageset.cpp:143] Processed 300000 files.
+E0928 17:42:16.586380  1703 convert_imageset.cpp:143] Processed 301000 files.
+E0928 17:42:19.244850  1703 convert_imageset.cpp:143] Processed 302000 files.
+E0928 17:42:21.678392  1703 convert_imageset.cpp:143] Processed 303000 files.
+E0928 17:42:24.145273  1703 convert_imageset.cpp:143] Processed 304000 files.
+E0928 17:42:26.762125  1703 convert_imageset.cpp:143] Processed 305000 files.
+E0928 17:42:29.237318  1703 convert_imageset.cpp:143] Processed 306000 files.
+E0928 17:42:31.712514  1703 convert_imageset.cpp:143] Processed 307000 files.
+E0928 17:42:34.209035  1703 convert_imageset.cpp:143] Processed 308000 files.
+E0928 17:42:36.926357  1703 convert_imageset.cpp:143] Processed 309000 files.
+E0928 17:42:39.559860  1703 convert_imageset.cpp:143] Processed 310000 files.
+E0928 17:42:51.714360  1703 convert_imageset.cpp:143] Processed 311000 files.
+E0928 17:42:58.031491  1703 convert_imageset.cpp:143] Processed 312000 files.
+E0928 17:43:00.623291  1703 convert_imageset.cpp:143] Processed 313000 files.
+E0928 17:43:03.277631  1703 convert_imageset.cpp:143] Processed 314000 files.
+E0928 17:43:05.661186  1703 convert_imageset.cpp:143] Processed 315000 files.
+E0928 17:43:08.066061  1703 convert_imageset.cpp:143] Processed 316000 files.
+E0928 17:43:10.666236  1703 convert_imageset.cpp:143] Processed 317000 files.
+E0928 17:43:13.258083  1703 convert_imageset.cpp:143] Processed 318000 files.
+E0928 17:43:15.875421  1703 convert_imageset.cpp:143] Processed 319000 files.
+E0928 17:43:18.292294  1703 convert_imageset.cpp:143] Processed 320000 files.
+E0928 17:43:21.992332  1703 convert_imageset.cpp:143] Processed 321000 files.
+E0928 17:43:24.617528  1703 convert_imageset.cpp:143] Processed 322000 files.
+E0928 17:43:27.305691  1703 convert_imageset.cpp:143] Processed 323000 files.
+E0928 17:43:42.481366  1703 convert_imageset.cpp:143] Processed 324000 files.
+E0928 17:43:45.023213  1703 convert_imageset.cpp:143] Processed 325000 files.
+E0928 17:43:47.648387  1703 convert_imageset.cpp:143] Processed 326000 files.
+E0928 17:43:50.256902  1703 convert_imageset.cpp:143] Processed 327000 files.
+E0928 17:43:52.632097  1703 convert_imageset.cpp:143] Processed 328000 files.
+E0928 17:43:55.090641  1703 convert_imageset.cpp:143] Processed 329000 files.
+E0928 17:43:57.657492  1703 convert_imageset.cpp:143] Processed 330000 files.
+E0928 17:44:00.265995  1703 convert_imageset.cpp:143] Processed 331000 files.
+E0928 17:44:03.095866  1703 convert_imageset.cpp:143] Processed 332000 files.
+E0928 17:44:08.849799  1703 convert_imageset.cpp:143] Processed 333000 files.
+E0928 17:44:11.416661  1703 convert_imageset.cpp:143] Processed 334000 files.
+E0928 17:44:13.866858  1703 convert_imageset.cpp:143] Processed 335000 files.
+E0928 17:44:21.864389  1703 convert_imageset.cpp:143] Processed 336000 files.
+E0928 17:44:32.881032  1703 convert_imageset.cpp:143] Processed 337000 files.
+E0928 17:44:35.527045  1703 convert_imageset.cpp:143] Processed 338000 files.
+E0928 17:44:38.127221  1703 convert_imageset.cpp:143] Processed 339000 files.
+E0928 17:44:40.752885  1703 convert_imageset.cpp:143] Processed 340000 files.
+E0928 17:44:43.378057  1703 convert_imageset.cpp:143] Processed 341000 files.
+E0928 17:44:45.928261  1703 convert_imageset.cpp:143] Processed 342000 files.
+E0928 17:44:48.628445  1703 convert_imageset.cpp:143] Processed 343000 files.
+E0928 17:44:51.253624  1703 convert_imageset.cpp:143] Processed 344000 files.
+E0928 17:44:53.987612  1703 convert_imageset.cpp:143] Processed 345000 files.
+E0928 17:44:57.096068  1703 convert_imageset.cpp:143] Processed 346000 files.
+E0928 17:44:59.596256  1703 convert_imageset.cpp:143] Processed 347000 files.
+E0928 17:45:02.296422  1703 convert_imageset.cpp:143] Processed 348000 files.
+E0928 17:45:06.118911  1703 convert_imageset.cpp:143] Processed 349000 files.
+E0928 17:45:18.568289  1703 convert_imageset.cpp:143] Processed 350000 files.
+E0928 17:45:22.226681  1703 convert_imageset.cpp:143] Processed 351000 files.
+E0928 17:45:25.535110  1703 convert_imageset.cpp:143] Processed 352000 files.
+E0928 17:45:28.518580  1703 convert_imageset.cpp:143] Processed 353000 files.
+E0928 17:45:32.743554  1703 convert_imageset.cpp:143] Processed 354000 files.
+E0928 17:45:36.851888  1703 convert_imageset.cpp:143] Processed 355000 files.
+E0928 17:45:40.672796  1703 convert_imageset.cpp:143] Processed 356000 files.
+E0928 17:45:44.331167  1703 convert_imageset.cpp:143] Processed 357000 files.
+E0928 17:45:47.764559  1703 convert_imageset.cpp:143] Processed 358000 files.
+E0928 17:45:59.227699  1703 convert_imageset.cpp:143] Processed 359000 files.
+E0928 17:46:04.535887  1703 convert_imageset.cpp:143] Processed 360000 files.
+E0928 17:46:08.744220  1703 convert_imageset.cpp:143] Processed 361000 files.
+E0928 17:46:12.485935  1703 convert_imageset.cpp:143] Processed 362000 files.
+E0928 17:46:15.627727  1703 convert_imageset.cpp:143] Processed 363000 files.
+E0928 17:46:18.869506  1703 convert_imageset.cpp:143] Processed 364000 files.
+E0928 17:46:22.777845  1703 convert_imageset.cpp:143] Processed 365000 files.
+E0928 17:46:26.111280  1703 convert_imageset.cpp:143] Processed 366000 files.
+E0928 17:46:29.586362  1703 convert_imageset.cpp:143] Processed 367000 files.
+E0928 17:46:32.728142  1703 convert_imageset.cpp:143] Processed 368000 files.
+E0928 17:46:42.784442  1703 convert_imageset.cpp:143] Processed 369000 files.
+E0928 17:46:49.579850  1703 convert_imageset.cpp:143] Processed 370000 files.
+E0928 17:46:53.022059  1703 convert_imageset.cpp:143] Processed 371000 files.
+E0928 17:46:56.472137  1703 convert_imageset.cpp:143] Processed 372000 files.
+E0928 17:47:00.055963  1703 convert_imageset.cpp:143] Processed 373000 files.
+E0928 17:47:03.322780  1703 convert_imageset.cpp:143] Processed 374000 files.
+E0928 17:47:06.189640  1703 convert_imageset.cpp:143] Processed 375000 files.
+E0928 17:47:09.131428  1703 convert_imageset.cpp:143] Processed 376000 files.
+E0928 17:47:12.106575  1703 convert_imageset.cpp:143] Processed 377000 files.
+E0928 17:47:15.006708  1703 convert_imageset.cpp:143] Processed 378000 files.
+E0928 17:47:17.723561  1703 convert_imageset.cpp:143] Processed 379000 files.
+E0928 17:47:25.844965  1703 convert_imageset.cpp:143] Processed 380000 files.
+E0928 17:47:32.158100  1703 convert_imageset.cpp:143] Processed 381000 files.
+E0928 17:47:35.041579  1703 convert_imageset.cpp:143] Processed 382000 files.
+E0928 17:47:37.933395  1703 convert_imageset.cpp:143] Processed 383000 files.
+E0928 17:47:40.800690  1703 convert_imageset.cpp:143] Processed 384000 files.
+E0928 17:47:43.642511  1703 convert_imageset.cpp:143] Processed 385000 files.
+E0928 17:47:46.517681  1703 convert_imageset.cpp:143] Processed 386000 files.
+E0928 17:47:49.322515  1703 convert_imageset.cpp:143] Processed 387000 files.
+E0928 17:47:52.031002  1703 convert_imageset.cpp:143] Processed 388000 files.
+E0928 17:47:54.976976  1703 convert_imageset.cpp:143] Processed 389000 files.
+E0928 17:47:57.993763  1703 convert_imageset.cpp:143] Processed 390000 files.
+E0928 17:48:00.868916  1703 convert_imageset.cpp:143] Processed 391000 files.
+E0928 17:48:03.760731  1703 convert_imageset.cpp:143] Processed 392000 files.
+E0928 17:48:18.473958  1703 convert_imageset.cpp:143] Processed 393000 files.
+E0928 17:48:21.403275  1703 convert_imageset.cpp:143] Processed 394000 files.
+E0928 17:48:24.311743  1703 convert_imageset.cpp:143] Processed 395000 files.
+E0928 17:48:27.345202  1703 convert_imageset.cpp:143] Processed 396000 files.
+E0928 17:48:30.237004  1703 convert_imageset.cpp:143] Processed 397000 files.
+E0928 17:48:33.053839  1703 convert_imageset.cpp:143] Processed 398000 files.
+E0928 17:48:35.987330  1703 convert_imageset.cpp:143] Processed 399000 files.
+F0928 17:48:37.126296  1703 db_lmdb.hpp:13] Check failed: mdb_status == 0 (5 vs. 0) Input/output error
+*** Check failure stack trace: ***
+    @     0x7fae36869daa  (unknown)
+    @     0x7fae36869ce4  (unknown)
+    @     0x7fae368696e6  (unknown)
+    @     0x7fae3686c687  (unknown)
+    @     0x7fae36bccd2b  caffe::db::LMDBTransaction::Commit()
+    @           0x40338d  main
+    @     0x7fae35a78ec5  (unknown)
+    @           0x403e5c  (unknown)
+    @              (nil)  (unknown)
+Aborted (core dumped)
+Creating val lmdb...
+I0928 17:48:38.305263  5019 convert_imageset.cpp:82] A total of 101759 images.
+F0928 17:48:38.305446  5019 db_lmdb.cpp:15] Check failed: mkdir(source.c_str(), 0744) == 0 (-1 vs. 0) mkdir jd/imagenet_val_leveldbfailed
+*** Check failure stack trace: ***
+    @     0x7f8e49c33daa  (unknown)
+    @     0x7f8e49c33ce4  (unknown)
+    @     0x7f8e49c336e6  (unknown)
+    @     0x7f8e49c36687  (unknown)
+    @     0x7f8e49f968ee  caffe::db::LMDB::Open()
+    @           0x403122  main
+    @     0x7f8e48e42ec5  (unknown)
+    @           0x403e5c  (unknown)
+    @              (nil)  (unknown)
+Aborted (core dumped)
+Done.
+I1009 18:39:49.828698 25408 caffe.cpp:118] Use GPU with device ID 0
+I1009 18:39:50.226177 25408 caffe.cpp:126] Starting Optimization
+I1009 18:39:50.226276 25408 solver.cpp:36] Initializing solver from parameters: 
+test_iter: 10
+test_interval: 500
+base_lr: 1e-05
+display: 100
+max_iter: 1000000
+lr_policy: "step"
+gamma: 0.1
+momentum: 0.9
+weight_decay: 0.0005
+stepsize: 10000
+snapshot: 10000
+snapshot_prefix: "whole_bs/whole_bs"
+solver_mode: GPU
+net: "whole_bs/train_val.prototxt"
+I1009 18:39:50.226312 25408 solver.cpp:74] Creating training net from net file: whole_bs/train_val.prototxt
+I1009 18:39:50.226883 25408 net.cpp:289] The NetState phase (0) differed from the phase (1) specified by a rule in layer data
+I1009 18:39:50.226907 25408 net.cpp:289] The NetState phase (0) differed from the phase (1) specified by a rule in layer accuracy
+I1009 18:39:50.227046 25408 net.cpp:44] Initializing net from parameters: 
+name: "CaffeNet"
+state {
+  phase: TRAIN
+}
+layer {
+  name: "data"
+  type: "Data"
+  top: "data"
+  top: "label"
+  include {
+    phase: TRAIN
+  }
+  transform_param {
+    mirror: true
+    crop_size: 227
+    mean_file: "data/whole_bs/imagenet_mean.binaryproto"
+  }
+  data_param {
+    source: "whole_bs/imagenet_train_leveldb"
+    batch_size: 10
+    backend: LMDB
+  }
+}
+layer {
+  name: "conv1"
+  type: "Convolution"
+  bottom: "data"
+  top: "conv1"
+  param {
+    lr_mult: 1
+    decay_mult: 1
+  }
+  param {
+    lr_mult: 2
+    decay_mult: 0
+  }
+  convolution_param {
+    num_output: 96
+    kernel_size: 11
+    stride: 4
+    weight_filler {
+      type: "gaussian"
+      std: 0.01
+    }
+    bias_filler {
+      type: "constant"
+      value: 0
+    }
+  }
+}
+layer {
+  name: "relu1"
+  type: "ReLU"
+  bottom: "conv1"
+  top: "conv1"
+}
+layer {
+  name: "pool1"
+  type: "Pooling"
+  bottom: "conv1"
+  top: "pool1"
+  pooling_param {
+    pool: MAX
+    kernel_size: 3
+    stride: 2
+  }
+}
+layer {
+  name: "norm1"
+  type: "LRN"
+  bottom: "pool1"
+  top: "norm1"
+  lrn_param {
+    local_size: 5
+    alpha: 0.0001
+    beta: 0.75
+  }
+}
+layer {
+  name: "conv2"
+  type: "Convolution"
+  bottom: "norm1"
+  top: "conv2"
+  param {
+    lr_mult: 1
+    decay_mult: 1
+  }
+  param {
+    lr_mult: 2
+    decay_mult: 0
+  }
+  convolution_param {
+    num_output: 256
+    pad: 2
+    kernel_size: 5
+    group: 2
+    weight_filler {
+      type: "gaussian"
+      std: 0.01
+    }
+    bias_filler {
+      type: "constant"
+      value: 1
+    }
+  }
+}
+layer {
+  name: "relu2"
+  type: "ReLU"
+  bottom: "conv2"
+  top: "conv2"
+}
+layer {
+  name: "pool2"
+  type: "Pooling"
+  bottom: "conv2"
+  top: "pool2"
+  pooling_param {
+    pool: MAX
+    kernel_size: 3
+    stride: 2
+  }
+}
+layer {
+  name: "norm2"
+  type: "LRN"
+  bottom: "pool2"
+  top: "norm2"
+  lrn_param {
+    local_size: 5
+    alpha: 0.0001
+    beta: 0.75
+  }
+}
+layer {
+  name: "conv3"
+  type: "Convolution"
+  bottom: "norm2"
+  top: "conv3"
+  param {
+    lr_mult: 1
+    decay_mult: 1
+  }
+  param {
+    lr_mult: 2
+    decay_mult: 0
+  }
+  convolution_param {
+    num_output: 384
+    pad: 1
+    kernel_size: 3
+    weight_filler {
+      type: "gaussian"
+      std: 0.01
+    }
+    bias_filler {
+      type: "constant"
+      value: 0
+    }
+  }
+}
+layer {
+  name: "relu3"
+  type: "ReLU"
+  bottom: "conv3"
+  top: "conv3"
+}
+layer {
+  name: "conv4"
+  type: "Convolution"
+  bottom: "conv3"
+  top: "conv4"
+  param {
+    lr_mult: 1
+    decay_mult: 1
+  }
+  param {
+    lr_mult: 2
+    decay_mult: 0
+  }
+  convolution_param {
+    num_output: 384
+    pad: 1
+    kernel_size: 3
+    group: 2
+    weight_filler {
+      type: "gaussian"
+      std: 0.01
+    }
+    bias_filler {
+      type: "constant"
+      value: 1
+    }
+  }
+}
+layer {
+  name: "relu4"
+  type: "ReLU"
+  bottom: "conv4"
+  top: "conv4"
+}
+layer {
+  name: "conv5"
+  type: "Convolution"
+  bottom: "conv4"
+  top: "conv5"
+  param {
+    lr_mult: 1
+    decay_mult: 1
+  }
+  param {
+    lr_mult: 2
+    decay_mult: 0
+  }
+  convolution_param {
+    num_output: 256
+    pad: 1
+    kernel_size: 3
+    group: 2
+    weight_filler {
+      type: "gaussian"
+      std: 0.01
+    }
+    bias_filler {
+      type: "constant"
+      value: 1
+    }
+  }
+}
+layer {
+  name: "relu5"
+  type: "ReLU"
+  bottom: "conv5"
+  top: "conv5"
+}
+layer {
+  name: "pool5"
+  type: "Pooling"
+  bottom: "conv5"
+  top: "pool5"
+  pooling_param {
+    pool: MAX
+    kernel_size: 3
+    stride: 2
+  }
+}
+layer {
+  name: "fc6"
+  type: "InnerProduct"
+  bottom: "pool5"
+  top: "fc6"
+  param {
+    lr_mult: 1
+    decay_mult: 1
+  }
+  param {
+    lr_mult: 2
+    decay_mult: 0
+  }
+  inner_product_param {
+    num_output: 4096
+    weight_filler {
+      type: "gaussian"
+      std: 0.005
+    }
+    bias_filler {
+      type: "constant"
+      value: 1
+    }
+  }
+}
+layer {
+  name: "relu6"
+  type: "ReLU"
+  bottom: "fc6"
+  top: "fc6"
+}
+layer {
+  name: "drop6"
+  type: "Dropout"
+  bottom: "fc6"
+  top: "fc6"
+  dropout_param {
+    dropout_ratio: 0.5
+  }
+}
+layer {
+  name: "fc7"
+  type: "InnerProduct"
+  bottom: "fc6"
+  top: "fc7"
+  param {
+    lr_mult: 1
+    decay_mult: 1
+  }
+  param {
+    lr_mult: 2
+    decay_mult: 0
+  }
+  inner_product_param {
+    num_output: 4096
+    weight_filler {
+      type: "gaussian"
+      std: 0.005
+    }
+    bias_filler {
+      type: "constant"
+      value: 1
+    }
+  }
+}
+layer {
+  name: "relu7"
+  type: "ReLU"
+  bottom: "fc7"
+  top: "fc7"
+}
+layer {
+  name: "drop7"
+  type: "Dropout"
+  bottom: "fc7"
+  top: "fc7"
+  dropout_param {
+    dropout_ratio: 0.5
+  }
+}
+layer {
+  name: "fc8"
+  type: "InnerProduct"
+  bottom: "fc7"
+  top: "fc8"
+  param {
+    lr_mult: 1
+    decay_mult: 1
+  }
+  param {
+    lr_mult: 2
+    decay_mult: 0
+  }
+  inner_product_param {
+    num_output: 2
+    weight_filler {
+      type: "gaussian"
+      std: 0.01
+    }
+    bias_filler {
+      type: "constant"
+      value: 0
+    }
+  }
+}
+layer {
+  name: "loss"
+  type: "SoftmaxWithLoss"
+  bottom: "fc8"
+  bottom: "label"
+  top: "loss"
+}
+I1009 18:39:50.227144 25408 layer_factory.hpp:74] Creating layer data
+I1009 18:39:50.227166 25408 net.cpp:92] Creating Layer data
+I1009 18:39:50.227174 25408 net.cpp:370] data -> data
+I1009 18:39:50.227200 25408 net.cpp:370] data -> label
+I1009 18:39:50.227211 25408 net.cpp:122] Setting up data
+I1009 18:39:50.227218 25408 data_transformer.cpp:22] Loading mean file from: data/whole_bs/imagenet_mean.binaryproto
+I1009 18:39:50.228745 25408 db_lmdb.cpp:22] Opened lmdb whole_bs/imagenet_train_leveldb
+I1009 18:39:50.228826 25408 data_layer.cpp:52] output data size: 10,3,227,227
+I1009 18:39:50.229760 25408 net.cpp:129] Top shape: 10 3 227 227 (1545870)
+I1009 18:39:50.229785 25408 net.cpp:129] Top shape: 10 (10)
+I1009 18:39:50.229795 25408 layer_factory.hpp:74] Creating layer conv1
+I1009 18:39:50.229814 25408 net.cpp:92] Creating Layer conv1
+I1009 18:39:50.229820 25408 net.cpp:412] conv1 <- data
+I1009 18:39:50.229833 25408 net.cpp:370] conv1 -> conv1
+I1009 18:39:50.229847 25408 net.cpp:122] Setting up conv1
+I1009 18:39:50.230695 25408 net.cpp:129] Top shape: 10 96 55 55 (2904000)
+I1009 18:39:50.230713 25408 layer_factory.hpp:74] Creating layer relu1
+I1009 18:39:50.230721 25408 net.cpp:92] Creating Layer relu1
+I1009 18:39:50.230727 25408 net.cpp:412] relu1 <- conv1
+I1009 18:39:50.230733 25408 net.cpp:359] relu1 -> conv1 (in-place)
+I1009 18:39:50.230741 25408 net.cpp:122] Setting up relu1
+I1009 18:39:50.230747 25408 net.cpp:129] Top shape: 10 96 55 55 (2904000)
+I1009 18:39:50.230752 25408 layer_factory.hpp:74] Creating layer pool1
+I1009 18:39:50.230761 25408 net.cpp:92] Creating Layer pool1
+I1009 18:39:50.230765 25408 net.cpp:412] pool1 <- conv1
+I1009 18:39:50.230772 25408 net.cpp:370] pool1 -> pool1
+I1009 18:39:50.230780 25408 net.cpp:122] Setting up pool1
+I1009 18:39:50.230795 25408 net.cpp:129] Top shape: 10 96 27 27 (699840)
+I1009 18:39:50.230801 25408 layer_factory.hpp:74] Creating layer norm1
+I1009 18:39:50.230810 25408 net.cpp:92] Creating Layer norm1
+I1009 18:39:50.230815 25408 net.cpp:412] norm1 <- pool1
+I1009 18:39:50.230823 25408 net.cpp:370] norm1 -> norm1
+I1009 18:39:50.230831 25408 net.cpp:122] Setting up norm1
+I1009 18:39:50.230839 25408 net.cpp:129] Top shape: 10 96 27 27 (699840)
+I1009 18:39:50.230844 25408 layer_factory.hpp:74] Creating layer conv2
+I1009 18:39:50.230852 25408 net.cpp:92] Creating Layer conv2
+I1009 18:39:50.230857 25408 net.cpp:412] conv2 <- norm1
+I1009 18:39:50.230865 25408 net.cpp:370] conv2 -> conv2
+I1009 18:39:50.230885 25408 net.cpp:122] Setting up conv2
+I1009 18:39:50.238181 25408 net.cpp:129] Top shape: 10 256 27 27 (1866240)
+I1009 18:39:50.238219 25408 layer_factory.hpp:74] Creating layer relu2
+I1009 18:39:50.238231 25408 net.cpp:92] Creating Layer relu2
+I1009 18:39:50.238237 25408 net.cpp:412] relu2 <- conv2
+I1009 18:39:50.238248 25408 net.cpp:359] relu2 -> conv2 (in-place)
+I1009 18:39:50.238266 25408 net.cpp:122] Setting up relu2
+I1009 18:39:50.238273 25408 net.cpp:129] Top shape: 10 256 27 27 (1866240)
+I1009 18:39:50.238278 25408 layer_factory.hpp:74] Creating layer pool2
+I1009 18:39:50.238286 25408 net.cpp:92] Creating Layer pool2
+I1009 18:39:50.238291 25408 net.cpp:412] pool2 <- conv2
+I1009 18:39:50.238297 25408 net.cpp:370] pool2 -> pool2
+I1009 18:39:50.238306 25408 net.cpp:122] Setting up pool2
+I1009 18:39:50.238315 25408 net.cpp:129] Top shape: 10 256 13 13 (432640)
+I1009 18:39:50.238320 25408 layer_factory.hpp:74] Creating layer norm2
+I1009 18:39:50.238330 25408 net.cpp:92] Creating Layer norm2
+I1009 18:39:50.238337 25408 net.cpp:412] norm2 <- pool2
+I1009 18:39:50.238343 25408 net.cpp:370] norm2 -> norm2
+I1009 18:39:50.238351 25408 net.cpp:122] Setting up norm2
+I1009 18:39:50.238359 25408 net.cpp:129] Top shape: 10 256 13 13 (432640)
+I1009 18:39:50.238364 25408 layer_factory.hpp:74] Creating layer conv3
+I1009 18:39:50.238373 25408 net.cpp:92] Creating Layer conv3
+I1009 18:39:50.238379 25408 net.cpp:412] conv3 <- norm2
+I1009 18:39:50.238385 25408 net.cpp:370] conv3 -> conv3
+I1009 18:39:50.238394 25408 net.cpp:122] Setting up conv3
+I1009 18:39:50.258674 25408 net.cpp:129] Top shape: 10 384 13 13 (648960)
+I1009 18:39:50.258689 25408 layer_factory.hpp:74] Creating layer relu3
+I1009 18:39:50.258697 25408 net.cpp:92] Creating Layer relu3
+I1009 18:39:50.258702 25408 net.cpp:412] relu3 <- conv3
+I1009 18:39:50.258708 25408 net.cpp:359] relu3 -> conv3 (in-place)
+I1009 18:39:50.258715 25408 net.cpp:122] Setting up relu3
+I1009 18:39:50.258721 25408 net.cpp:129] Top shape: 10 384 13 13 (648960)
+I1009 18:39:50.258726 25408 layer_factory.hpp:74] Creating layer conv4
+I1009 18:39:50.258734 25408 net.cpp:92] Creating Layer conv4
+I1009 18:39:50.258740 25408 net.cpp:412] conv4 <- conv3
+I1009 18:39:50.258746 25408 net.cpp:370] conv4 -> conv4
+I1009 18:39:50.258754 25408 net.cpp:122] Setting up conv4
+I1009 18:39:50.274044 25408 net.cpp:129] Top shape: 10 384 13 13 (648960)
+I1009 18:39:50.274060 25408 layer_factory.hpp:74] Creating layer relu4
+I1009 18:39:50.274068 25408 net.cpp:92] Creating Layer relu4
+I1009 18:39:50.274073 25408 net.cpp:412] relu4 <- conv4
+I1009 18:39:50.274085 25408 net.cpp:359] relu4 -> conv4 (in-place)
+I1009 18:39:50.274091 25408 net.cpp:122] Setting up relu4
+I1009 18:39:50.274098 25408 net.cpp:129] Top shape: 10 384 13 13 (648960)
+I1009 18:39:50.274103 25408 layer_factory.hpp:74] Creating layer conv5
+I1009 18:39:50.274111 25408 net.cpp:92] Creating Layer conv5
+I1009 18:39:50.274116 25408 net.cpp:412] conv5 <- conv4
+I1009 18:39:50.274124 25408 net.cpp:370] conv5 -> conv5
+I1009 18:39:50.274132 25408 net.cpp:122] Setting up conv5
+I1009 18:39:50.284317 25408 net.cpp:129] Top shape: 10 256 13 13 (432640)
+I1009 18:39:50.284332 25408 layer_factory.hpp:74] Creating layer relu5
+I1009 18:39:50.284340 25408 net.cpp:92] Creating Layer relu5
+I1009 18:39:50.284345 25408 net.cpp:412] relu5 <- conv5
+I1009 18:39:50.284351 25408 net.cpp:359] relu5 -> conv5 (in-place)
+I1009 18:39:50.284358 25408 net.cpp:122] Setting up relu5
+I1009 18:39:50.284364 25408 net.cpp:129] Top shape: 10 256 13 13 (432640)
+I1009 18:39:50.284369 25408 layer_factory.hpp:74] Creating layer pool5
+I1009 18:39:50.284376 25408 net.cpp:92] Creating Layer pool5
+I1009 18:39:50.284381 25408 net.cpp:412] pool5 <- conv5
+I1009 18:39:50.284387 25408 net.cpp:370] pool5 -> pool5
+I1009 18:39:50.284394 25408 net.cpp:122] Setting up pool5
+I1009 18:39:50.284404 25408 net.cpp:129] Top shape: 10 256 6 6 (92160)
+I1009 18:39:50.284409 25408 layer_factory.hpp:74] Creating layer fc6
+I1009 18:39:50.284420 25408 net.cpp:92] Creating Layer fc6
+I1009 18:39:50.284425 25408 net.cpp:412] fc6 <- pool5
+I1009 18:39:50.284446 25408 net.cpp:370] fc6 -> fc6
+I1009 18:39:50.284458 25408 net.cpp:122] Setting up fc6
+I1009 18:39:51.141047 25408 net.cpp:129] Top shape: 10 4096 (40960)
+I1009 18:39:51.141089 25408 layer_factory.hpp:74] Creating layer relu6
+I1009 18:39:51.141101 25408 net.cpp:92] Creating Layer relu6
+I1009 18:39:51.141108 25408 net.cpp:412] relu6 <- fc6
+I1009 18:39:51.141126 25408 net.cpp:359] relu6 -> fc6 (in-place)
+I1009 18:39:51.141135 25408 net.cpp:122] Setting up relu6
+I1009 18:39:51.141142 25408 net.cpp:129] Top shape: 10 4096 (40960)
+I1009 18:39:51.141147 25408 layer_factory.hpp:74] Creating layer drop6
+I1009 18:39:51.141155 25408 net.cpp:92] Creating Layer drop6
+I1009 18:39:51.141160 25408 net.cpp:412] drop6 <- fc6
+I1009 18:39:51.141166 25408 net.cpp:359] drop6 -> fc6 (in-place)
+I1009 18:39:51.141177 25408 net.cpp:122] Setting up drop6
+I1009 18:39:51.141187 25408 net.cpp:129] Top shape: 10 4096 (40960)
+I1009 18:39:51.141192 25408 layer_factory.hpp:74] Creating layer fc7
+I1009 18:39:51.141201 25408 net.cpp:92] Creating Layer fc7
+I1009 18:39:51.141206 25408 net.cpp:412] fc7 <- fc6
+I1009 18:39:51.141213 25408 net.cpp:370] fc7 -> fc7
+I1009 18:39:51.141223 25408 net.cpp:122] Setting up fc7
+I1009 18:39:51.521951 25408 net.cpp:129] Top shape: 10 4096 (40960)
+I1009 18:39:51.521993 25408 layer_factory.hpp:74] Creating layer relu7
+I1009 18:39:51.522006 25408 net.cpp:92] Creating Layer relu7
+I1009 18:39:51.522011 25408 net.cpp:412] relu7 <- fc7
+I1009 18:39:51.522022 25408 net.cpp:359] relu7 -> fc7 (in-place)
+I1009 18:39:51.522030 25408 net.cpp:122] Setting up relu7
+I1009 18:39:51.522037 25408 net.cpp:129] Top shape: 10 4096 (40960)
+I1009 18:39:51.522042 25408 layer_factory.hpp:74] Creating layer drop7
+I1009 18:39:51.522049 25408 net.cpp:92] Creating Layer drop7
+I1009 18:39:51.522054 25408 net.cpp:412] drop7 <- fc7
+I1009 18:39:51.522060 25408 net.cpp:359] drop7 -> fc7 (in-place)
+I1009 18:39:51.522068 25408 net.cpp:122] Setting up drop7
+I1009 18:39:51.522075 25408 net.cpp:129] Top shape: 10 4096 (40960)
+I1009 18:39:51.522080 25408 layer_factory.hpp:74] Creating layer fc8
+I1009 18:39:51.522090 25408 net.cpp:92] Creating Layer fc8
+I1009 18:39:51.522095 25408 net.cpp:412] fc8 <- fc7
+I1009 18:39:51.522102 25408 net.cpp:370] fc8 -> fc8
+I1009 18:39:51.522110 25408 net.cpp:122] Setting up fc8
+I1009 18:39:51.522312 25408 net.cpp:129] Top shape: 10 2 (20)
+I1009 18:39:51.522320 25408 layer_factory.hpp:74] Creating layer loss
+I1009 18:39:51.522335 25408 net.cpp:92] Creating Layer loss
+I1009 18:39:51.522339 25408 net.cpp:412] loss <- fc8
+I1009 18:39:51.522346 25408 net.cpp:412] loss <- label
+I1009 18:39:51.522354 25408 net.cpp:370] loss -> loss
+I1009 18:39:51.522364 25408 net.cpp:122] Setting up loss
+I1009 18:39:51.522372 25408 layer_factory.hpp:74] Creating layer loss
+I1009 18:39:51.522388 25408 net.cpp:129] Top shape: (1)
+I1009 18:39:51.522394 25408 net.cpp:131]     with loss weight 1
+I1009 18:39:51.522413 25408 net.cpp:194] loss needs backward computation.
+I1009 18:39:51.522418 25408 net.cpp:194] fc8 needs backward computation.
+I1009 18:39:51.522423 25408 net.cpp:194] drop7 needs backward computation.
+I1009 18:39:51.522428 25408 net.cpp:194] relu7 needs backward computation.
+I1009 18:39:51.522433 25408 net.cpp:194] fc7 needs backward computation.
+I1009 18:39:51.522436 25408 net.cpp:194] drop6 needs backward computation.
+I1009 18:39:51.522441 25408 net.cpp:194] relu6 needs backward computation.
+I1009 18:39:51.522446 25408 net.cpp:194] fc6 needs backward computation.
+I1009 18:39:51.522451 25408 net.cpp:194] pool5 needs backward computation.
+I1009 18:39:51.522456 25408 net.cpp:194] relu5 needs backward computation.
+I1009 18:39:51.522461 25408 net.cpp:194] conv5 needs backward computation.
+I1009 18:39:51.522466 25408 net.cpp:194] relu4 needs backward computation.
+I1009 18:39:51.522474 25408 net.cpp:194] conv4 needs backward computation.
+I1009 18:39:51.522478 25408 net.cpp:194] relu3 needs backward computation.
+I1009 18:39:51.522483 25408 net.cpp:194] conv3 needs backward computation.
+I1009 18:39:51.522488 25408 net.cpp:194] norm2 needs backward computation.
+I1009 18:39:51.522507 25408 net.cpp:194] pool2 needs backward computation.
+I1009 18:39:51.522512 25408 net.cpp:194] relu2 needs backward computation.
+I1009 18:39:51.522517 25408 net.cpp:194] conv2 needs backward computation.
+I1009 18:39:51.522522 25408 net.cpp:194] norm1 needs backward computation.
+I1009 18:39:51.522531 25408 net.cpp:194] pool1 needs backward computation.
+I1009 18:39:51.522536 25408 net.cpp:194] relu1 needs backward computation.
+I1009 18:39:51.522541 25408 net.cpp:194] conv1 needs backward computation.
+I1009 18:39:51.522547 25408 net.cpp:196] data does not need backward computation.
+I1009 18:39:51.522550 25408 net.cpp:237] This network produces output loss
+I1009 18:39:51.522564 25408 net.cpp:249] Network initialization done.
+I1009 18:39:51.522569 25408 net.cpp:250] Memory required for data: 68601524
+I1009 18:39:51.523156 25408 solver.cpp:158] Creating test net (#0) specified by net file: whole_bs/train_val.prototxt
+I1009 18:39:51.523214 25408 net.cpp:289] The NetState phase (1) differed from the phase (0) specified by a rule in layer data
+I1009 18:39:51.523368 25408 net.cpp:44] Initializing net from parameters: 
+name: "CaffeNet"
+state {
+  phase: TEST
+}
+layer {
+  name: "data"
+  type: "Data"
+  top: "data"
+  top: "label"
+  include {
+    phase: TEST
+  }
+  transform_param {
+    mirror: true
+    crop_size: 227
+    mean_file: "data/whole_bs/imagenet_mean.binaryproto"
+  }
+  data_param {
+    source: "whole_bs/imagenet_val_leveldb"
+    mean_file: "data/whole_bs/imagenet_mean.binartproto"
+    batch_size: 10
+    crop_size: 227
+    mirror: false
+    backend: LMDB
+  }
+}
+layer {
+  name: "conv1"
+  type: "Convolution"
+  bottom: "data"
+  top: "conv1"
+  param {
+    lr_mult: 1
+    decay_mult: 1
+  }
+  param {
+    lr_mult: 2
+    decay_mult: 0
+  }
+  convolution_param {
+    num_output: 96
+    kernel_size: 11
+    stride: 4
+    weight_filler {
+      type: "gaussian"
+      std: 0.01
+    }
+    bias_filler {
+      type: "constant"
+      value: 0
+    }
+  }
+}
+layer {
+  name: "relu1"
+  type: "ReLU"
+  bottom: "conv1"
+  top: "conv1"
+}
+layer {
+  name: "pool1"
+  type: "Pooling"
+  bottom: "conv1"
+  top: "pool1"
+  pooling_param {
+    pool: MAX
+    kernel_size: 3
+    stride: 2
+  }
+}
+layer {
+  name: "norm1"
+  type: "LRN"
+  bottom: "pool1"
+  top: "norm1"
+  lrn_param {
+    local_size: 5
+    alpha: 0.0001
+    beta: 0.75
+  }
+}
+layer {
+  name: "conv2"
+  type: "Convolution"
+  bottom: "norm1"
+  top: "conv2"
+  param {
+    lr_mult: 1
+    decay_mult: 1
+  }
+  param {
+    lr_mult: 2
+    decay_mult: 0
+  }
+  convolution_param {
+    num_output: 256
+    pad: 2
+    kernel_size: 5
+    group: 2
+    weight_filler {
+      type: "gaussian"
+      std: 0.01
+    }
+    bias_filler {
+      type: "constant"
+      value: 1
+    }
+  }
+}
+layer {
+  name: "relu2"
+  type: "ReLU"
+  bottom: "conv2"
+  top: "conv2"
+}
+layer {
+  name: "pool2"
+  type: "Pooling"
+  bottom: "conv2"
+  top: "pool2"
+  pooling_param {
+    pool: MAX
+    kernel_size: 3
+    stride: 2
+  }
+}
+layer {
+  name: "norm2"
+  type: "LRN"
+  bottom: "pool2"
+  top: "norm2"
+  lrn_param {
+    local_size: 5
+    alpha: 0.0001
+    beta: 0.75
+  }
+}
+layer {
+  name: "conv3"
+  type: "Convolution"
+  bottom: "norm2"
+  top: "conv3"
+  param {
+    lr_mult: 1
+    decay_mult: 1
+  }
+  param {
+    lr_mult: 2
+    decay_mult: 0
+  }
+  convolution_param {
+    num_output: 384
+    pad: 1
+    kernel_size: 3
+    weight_filler {
+      type: "gaussian"
+      std: 0.01
+    }
+    bias_filler {
+      type: "constant"
+      value: 0
+    }
+  }
+}
+layer {
+  name: "relu3"
+  type: "ReLU"
+  bottom: "conv3"
+  top: "conv3"
+}
+layer {
+  name: "conv4"
+  type: "Convolution"
+  bottom: "conv3"
+  top: "conv4"
+  param {
+    lr_mult: 1
+    decay_mult: 1
+  }
+  param {
+    lr_mult: 2
+    decay_mult: 0
+  }
+  convolution_param {
+    num_output: 384
+    pad: 1
+    kernel_size: 3
+    group: 2
+    weight_filler {
+      type: "gaussian"
+      std: 0.01
+    }
+    bias_filler {
+      type: "constant"
+      value: 1
+    }
+  }
+}
+layer {
+  name: "relu4"
+  type: "ReLU"
+  bottom: "conv4"
+  top: "conv4"
+}
+layer {
+  name: "conv5"
+  type: "Convolution"
+  bottom: "conv4"
+  top: "conv5"
+  param {
+    lr_mult: 1
+    decay_mult: 1
+  }
+  param {
+    lr_mult: 2
+    decay_mult: 0
+  }
+  convolution_param {
+    num_output: 256
+    pad: 1
+    kernel_size: 3
+    group: 2
+    weight_filler {
+      type: "gaussian"
+      std: 0.01
+    }
+    bias_filler {
+      type: "constant"
+      value: 1
+    }
+  }
+}
+layer {
+  name: "relu5"
+  type: "ReLU"
+  bottom: "conv5"
+  top: "conv5"
+}
+layer {
+  name: "pool5"
+  type: "Pooling"
+  bottom: "conv5"
+  top: "pool5"
+  pooling_param {
+    pool: MAX
+    kernel_size: 3
+    stride: 2
+  }
+}
+layer {
+  name: "fc6"
+  type: "InnerProduct"
+  bottom: "pool5"
+  top: "fc6"
+  param {
+    lr_mult: 1
+    decay_mult: 1
+  }
+  param {
+    lr_mult: 2
+    decay_mult: 0
+  }
+  inner_product_param {
+    num_output: 4096
+    weight_filler {
+      type: "gaussian"
+      std: 0.005
+    }
+    bias_filler {
+      type: "constant"
+      value: 1
+    }
+  }
+}
+layer {
+  name: "relu6"
+  type: "ReLU"
+  bottom: "fc6"
+  top: "fc6"
+}
+layer {
+  name: "drop6"
+  type: "Dropout"
+  bottom: "fc6"
+  top: "fc6"
+  dropout_param {
+    dropout_ratio: 0.5
+  }
+}
+layer {
+  name: "fc7"
+  type: "InnerProduct"
+  bottom: "fc6"
+  top: "fc7"
+  param {
+    lr_mult: 1
+    decay_mult: 1
+  }
+  param {
+    lr_mult: 2
+    decay_mult: 0
+  }
+  inner_product_param {
+    num_output: 4096
+    weight_filler {
+      type: "gaussian"
+      std: 0.005
+    }
+    bias_filler {
+      type: "constant"
+      value: 1
+    }
+  }
+}
+layer {
+  name: "relu7"
+  type: "ReLU"
+  bottom: "fc7"
+  top: "fc7"
+}
+layer {
+  name: "drop7"
+  type: "Dropout"
+  bottom: "fc7"
+  top: "fc7"
+  dropout_param {
+    dropout_ratio: 0.5
+  }
+}
+layer {
+  name: "fc8"
+  type: "InnerProduct"
+  bottom: "fc7"
+  top: "fc8"
+  param {
+    lr_mult: 1
+    decay_mult: 1
+  }
+  param {
+    lr_mult: 2
+    decay_mult: 0
+  }
+  inner_product_param {
+    num_output: 2
+    weight_filler {
+      type: "gaussian"
+      std: 0.01
+    }
+    bias_filler {
+      type: "constant"
+      value: 0
+    }
+  }
+}
+layer {
+  name: "accuracy"
+  type: "Accuracy"
+  bottom: "fc8"
+  bottom: "label"
+  top: "accuracy"
+  include {
+    phase: TEST
+  }
+}
+layer {
+  name: "loss"
+  type: "SoftmaxWithLoss"
+  bottom: "fc8"
+  bottom: "label"
+  top: "loss"
+}
+I1009 18:39:51.523475 25408 layer_factory.hpp:74] Creating layer data
+I1009 18:39:51.523488 25408 net.cpp:92] Creating Layer data
+I1009 18:39:51.523494 25408 net.cpp:370] data -> data
+I1009 18:39:51.523504 25408 net.cpp:370] data -> label
+I1009 18:39:51.523512 25408 net.cpp:122] Setting up data
+I1009 18:39:51.523517 25408 data_transformer.cpp:22] Loading mean file from: data/whole_bs/imagenet_mean.binaryproto
+I1009 18:39:51.524787 25408 db_lmdb.cpp:22] Opened lmdb whole_bs/imagenet_val_leveldb
+I1009 18:39:51.524853 25408 data_layer.cpp:52] output data size: 10,3,227,227
+I1009 18:39:51.525785 25408 net.cpp:129] Top shape: 10 3 227 227 (1545870)
+I1009 18:39:51.525810 25408 net.cpp:129] Top shape: 10 (10)
+I1009 18:39:51.525818 25408 layer_factory.hpp:74] Creating layer label_data_1_split
+I1009 18:39:51.525832 25408 net.cpp:92] Creating Layer label_data_1_split
+I1009 18:39:51.525840 25408 net.cpp:412] label_data_1_split <- label
+I1009 18:39:51.525849 25408 net.cpp:370] label_data_1_split -> label_data_1_split_0
+I1009 18:39:51.525862 25408 net.cpp:370] label_data_1_split -> label_data_1_split_1
+I1009 18:39:51.525869 25408 net.cpp:122] Setting up label_data_1_split
+I1009 18:39:51.525878 25408 net.cpp:129] Top shape: 10 (10)
+I1009 18:39:51.525883 25408 net.cpp:129] Top shape: 10 (10)
+I1009 18:39:51.525888 25408 layer_factory.hpp:74] Creating layer conv1
+I1009 18:39:51.525899 25408 net.cpp:92] Creating Layer conv1
+I1009 18:39:51.525904 25408 net.cpp:412] conv1 <- data
+I1009 18:39:51.525912 25408 net.cpp:370] conv1 -> conv1
+I1009 18:39:51.525920 25408 net.cpp:122] Setting up conv1
+I1009 18:39:51.526751 25408 net.cpp:129] Top shape: 10 96 55 55 (2904000)
+I1009 18:39:51.526765 25408 layer_factory.hpp:74] Creating layer relu1
+I1009 18:39:51.526773 25408 net.cpp:92] Creating Layer relu1
+I1009 18:39:51.526778 25408 net.cpp:412] relu1 <- conv1
+I1009 18:39:51.526798 25408 net.cpp:359] relu1 -> conv1 (in-place)
+I1009 18:39:51.526804 25408 net.cpp:122] Setting up relu1
+I1009 18:39:51.526811 25408 net.cpp:129] Top shape: 10 96 55 55 (2904000)
+I1009 18:39:51.526816 25408 layer_factory.hpp:74] Creating layer pool1
+I1009 18:39:51.526824 25408 net.cpp:92] Creating Layer pool1
+I1009 18:39:51.526829 25408 net.cpp:412] pool1 <- conv1
+I1009 18:39:51.526841 25408 net.cpp:370] pool1 -> pool1
+I1009 18:39:51.526849 25408 net.cpp:122] Setting up pool1
+I1009 18:39:51.526859 25408 net.cpp:129] Top shape: 10 96 27 27 (699840)
+I1009 18:39:51.526865 25408 layer_factory.hpp:74] Creating layer norm1
+I1009 18:39:51.526871 25408 net.cpp:92] Creating Layer norm1
+I1009 18:39:51.526876 25408 net.cpp:412] norm1 <- pool1
+I1009 18:39:51.526883 25408 net.cpp:370] norm1 -> norm1
+I1009 18:39:51.526890 25408 net.cpp:122] Setting up norm1
+I1009 18:39:51.526897 25408 net.cpp:129] Top shape: 10 96 27 27 (699840)
+I1009 18:39:51.526902 25408 layer_factory.hpp:74] Creating layer conv2
+I1009 18:39:51.526911 25408 net.cpp:92] Creating Layer conv2
+I1009 18:39:51.526916 25408 net.cpp:412] conv2 <- norm1
+I1009 18:39:51.526922 25408 net.cpp:370] conv2 -> conv2
+I1009 18:39:51.526929 25408 net.cpp:122] Setting up conv2
+I1009 18:39:51.534124 25408 net.cpp:129] Top shape: 10 256 27 27 (1866240)
+I1009 18:39:51.534153 25408 layer_factory.hpp:74] Creating layer relu2
+I1009 18:39:51.534162 25408 net.cpp:92] Creating Layer relu2
+I1009 18:39:51.534168 25408 net.cpp:412] relu2 <- conv2
+I1009 18:39:51.534175 25408 net.cpp:359] relu2 -> conv2 (in-place)
+I1009 18:39:51.534183 25408 net.cpp:122] Setting up relu2
+I1009 18:39:51.534190 25408 net.cpp:129] Top shape: 10 256 27 27 (1866240)
+I1009 18:39:51.534195 25408 layer_factory.hpp:74] Creating layer pool2
+I1009 18:39:51.534205 25408 net.cpp:92] Creating Layer pool2
+I1009 18:39:51.534210 25408 net.cpp:412] pool2 <- conv2
+I1009 18:39:51.534217 25408 net.cpp:370] pool2 -> pool2
+I1009 18:39:51.534225 25408 net.cpp:122] Setting up pool2
+I1009 18:39:51.534235 25408 net.cpp:129] Top shape: 10 256 13 13 (432640)
+I1009 18:39:51.534240 25408 layer_factory.hpp:74] Creating layer norm2
+I1009 18:39:51.534250 25408 net.cpp:92] Creating Layer norm2
+I1009 18:39:51.534255 25408 net.cpp:412] norm2 <- pool2
+I1009 18:39:51.534260 25408 net.cpp:370] norm2 -> norm2
+I1009 18:39:51.534267 25408 net.cpp:122] Setting up norm2
+I1009 18:39:51.534276 25408 net.cpp:129] Top shape: 10 256 13 13 (432640)
+I1009 18:39:51.534281 25408 layer_factory.hpp:74] Creating layer conv3
+I1009 18:39:51.534291 25408 net.cpp:92] Creating Layer conv3
+I1009 18:39:51.534296 25408 net.cpp:412] conv3 <- norm2
+I1009 18:39:51.534303 25408 net.cpp:370] conv3 -> conv3
+I1009 18:39:51.534310 25408 net.cpp:122] Setting up conv3
+I1009 18:39:51.554561 25408 net.cpp:129] Top shape: 10 384 13 13 (648960)
+I1009 18:39:51.554575 25408 layer_factory.hpp:74] Creating layer relu3
+I1009 18:39:51.554582 25408 net.cpp:92] Creating Layer relu3
+I1009 18:39:51.554587 25408 net.cpp:412] relu3 <- conv3
+I1009 18:39:51.554594 25408 net.cpp:359] relu3 -> conv3 (in-place)
+I1009 18:39:51.554601 25408 net.cpp:122] Setting up relu3
+I1009 18:39:51.554607 25408 net.cpp:129] Top shape: 10 384 13 13 (648960)
+I1009 18:39:51.554612 25408 layer_factory.hpp:74] Creating layer conv4
+I1009 18:39:51.554620 25408 net.cpp:92] Creating Layer conv4
+I1009 18:39:51.554625 25408 net.cpp:412] conv4 <- conv3
+I1009 18:39:51.554632 25408 net.cpp:370] conv4 -> conv4
+I1009 18:39:51.554639 25408 net.cpp:122] Setting up conv4
+I1009 18:39:51.569931 25408 net.cpp:129] Top shape: 10 384 13 13 (648960)
+I1009 18:39:51.569944 25408 layer_factory.hpp:74] Creating layer relu4
+I1009 18:39:51.569952 25408 net.cpp:92] Creating Layer relu4
+I1009 18:39:51.569957 25408 net.cpp:412] relu4 <- conv4
+I1009 18:39:51.569967 25408 net.cpp:359] relu4 -> conv4 (in-place)
+I1009 18:39:51.569974 25408 net.cpp:122] Setting up relu4
+I1009 18:39:51.569982 25408 net.cpp:129] Top shape: 10 384 13 13 (648960)
+I1009 18:39:51.569986 25408 layer_factory.hpp:74] Creating layer conv5
+I1009 18:39:51.569994 25408 net.cpp:92] Creating Layer conv5
+I1009 18:39:51.570013 25408 net.cpp:412] conv5 <- conv4
+I1009 18:39:51.570019 25408 net.cpp:370] conv5 -> conv5
+I1009 18:39:51.570026 25408 net.cpp:122] Setting up conv5
+I1009 18:39:51.580288 25408 net.cpp:129] Top shape: 10 256 13 13 (432640)
+I1009 18:39:51.580304 25408 layer_factory.hpp:74] Creating layer relu5
+I1009 18:39:51.580312 25408 net.cpp:92] Creating Layer relu5
+I1009 18:39:51.580322 25408 net.cpp:412] relu5 <- conv5
+I1009 18:39:51.580328 25408 net.cpp:359] relu5 -> conv5 (in-place)
+I1009 18:39:51.580335 25408 net.cpp:122] Setting up relu5
+I1009 18:39:51.580341 25408 net.cpp:129] Top shape: 10 256 13 13 (432640)
+I1009 18:39:51.580346 25408 layer_factory.hpp:74] Creating layer pool5
+I1009 18:39:51.580356 25408 net.cpp:92] Creating Layer pool5
+I1009 18:39:51.580363 25408 net.cpp:412] pool5 <- conv5
+I1009 18:39:51.580368 25408 net.cpp:370] pool5 -> pool5
+I1009 18:39:51.580376 25408 net.cpp:122] Setting up pool5
+I1009 18:39:51.580385 25408 net.cpp:129] Top shape: 10 256 6 6 (92160)
+I1009 18:39:51.580390 25408 layer_factory.hpp:74] Creating layer fc6
+I1009 18:39:51.580400 25408 net.cpp:92] Creating Layer fc6
+I1009 18:39:51.580405 25408 net.cpp:412] fc6 <- pool5
+I1009 18:39:51.580412 25408 net.cpp:370] fc6 -> fc6
+I1009 18:39:51.580420 25408 net.cpp:122] Setting up fc6
+I1009 18:39:52.437166 25408 net.cpp:129] Top shape: 10 4096 (40960)
+I1009 18:39:52.437209 25408 layer_factory.hpp:74] Creating layer relu6
+I1009 18:39:52.437223 25408 net.cpp:92] Creating Layer relu6
+I1009 18:39:52.437230 25408 net.cpp:412] relu6 <- fc6
+I1009 18:39:52.437238 25408 net.cpp:359] relu6 -> fc6 (in-place)
+I1009 18:39:52.437247 25408 net.cpp:122] Setting up relu6
+I1009 18:39:52.437253 25408 net.cpp:129] Top shape: 10 4096 (40960)
+I1009 18:39:52.437258 25408 layer_factory.hpp:74] Creating layer drop6
+I1009 18:39:52.437268 25408 net.cpp:92] Creating Layer drop6
+I1009 18:39:52.437273 25408 net.cpp:412] drop6 <- fc6
+I1009 18:39:52.437278 25408 net.cpp:359] drop6 -> fc6 (in-place)
+I1009 18:39:52.437285 25408 net.cpp:122] Setting up drop6
+I1009 18:39:52.437294 25408 net.cpp:129] Top shape: 10 4096 (40960)
+I1009 18:39:52.437299 25408 layer_factory.hpp:74] Creating layer fc7
+I1009 18:39:52.437307 25408 net.cpp:92] Creating Layer fc7
+I1009 18:39:52.437312 25408 net.cpp:412] fc7 <- fc6
+I1009 18:39:52.437320 25408 net.cpp:370] fc7 -> fc7
+I1009 18:39:52.437330 25408 net.cpp:122] Setting up fc7
+I1009 18:39:52.818024 25408 net.cpp:129] Top shape: 10 4096 (40960)
+I1009 18:39:52.818066 25408 layer_factory.hpp:74] Creating layer relu7
+I1009 18:39:52.818078 25408 net.cpp:92] Creating Layer relu7
+I1009 18:39:52.818085 25408 net.cpp:412] relu7 <- fc7
+I1009 18:39:52.818094 25408 net.cpp:359] relu7 -> fc7 (in-place)
+I1009 18:39:52.818102 25408 net.cpp:122] Setting up relu7
+I1009 18:39:52.818109 25408 net.cpp:129] Top shape: 10 4096 (40960)
+I1009 18:39:52.818114 25408 layer_factory.hpp:74] Creating layer drop7
+I1009 18:39:52.818121 25408 net.cpp:92] Creating Layer drop7
+I1009 18:39:52.818126 25408 net.cpp:412] drop7 <- fc7
+I1009 18:39:52.818131 25408 net.cpp:359] drop7 -> fc7 (in-place)
+I1009 18:39:52.818138 25408 net.cpp:122] Setting up drop7
+I1009 18:39:52.818146 25408 net.cpp:129] Top shape: 10 4096 (40960)
+I1009 18:39:52.818151 25408 layer_factory.hpp:74] Creating layer fc8
+I1009 18:39:52.818161 25408 net.cpp:92] Creating Layer fc8
+I1009 18:39:52.818166 25408 net.cpp:412] fc8 <- fc7
+I1009 18:39:52.818173 25408 net.cpp:370] fc8 -> fc8
+I1009 18:39:52.818184 25408 net.cpp:122] Setting up fc8
+I1009 18:39:52.818387 25408 net.cpp:129] Top shape: 10 2 (20)
+I1009 18:39:52.818397 25408 layer_factory.hpp:74] Creating layer fc8_fc8_0_split
+I1009 18:39:52.818404 25408 net.cpp:92] Creating Layer fc8_fc8_0_split
+I1009 18:39:52.818409 25408 net.cpp:412] fc8_fc8_0_split <- fc8
+I1009 18:39:52.818416 25408 net.cpp:370] fc8_fc8_0_split -> fc8_fc8_0_split_0
+I1009 18:39:52.818424 25408 net.cpp:370] fc8_fc8_0_split -> fc8_fc8_0_split_1
+I1009 18:39:52.818431 25408 net.cpp:122] Setting up fc8_fc8_0_split
+I1009 18:39:52.818439 25408 net.cpp:129] Top shape: 10 2 (20)
+I1009 18:39:52.818459 25408 net.cpp:129] Top shape: 10 2 (20)
+I1009 18:39:52.818464 25408 layer_factory.hpp:74] Creating layer accuracy
+I1009 18:39:52.818471 25408 net.cpp:92] Creating Layer accuracy
+I1009 18:39:52.818477 25408 net.cpp:412] accuracy <- fc8_fc8_0_split_0
+I1009 18:39:52.818482 25408 net.cpp:412] accuracy <- label_data_1_split_0
+I1009 18:39:52.818493 25408 net.cpp:370] accuracy -> accuracy
+I1009 18:39:52.818501 25408 net.cpp:122] Setting up accuracy
+I1009 18:39:52.818508 25408 net.cpp:129] Top shape: (1)
+I1009 18:39:52.818513 25408 layer_factory.hpp:74] Creating layer loss
+I1009 18:39:52.818521 25408 net.cpp:92] Creating Layer loss
+I1009 18:39:52.818526 25408 net.cpp:412] loss <- fc8_fc8_0_split_1
+I1009 18:39:52.818531 25408 net.cpp:412] loss <- label_data_1_split_1
+I1009 18:39:52.818537 25408 net.cpp:370] loss -> loss
+I1009 18:39:52.818544 25408 net.cpp:122] Setting up loss
+I1009 18:39:52.818552 25408 layer_factory.hpp:74] Creating layer loss
+I1009 18:39:52.818567 25408 net.cpp:129] Top shape: (1)
+I1009 18:39:52.818572 25408 net.cpp:131]     with loss weight 1
+I1009 18:39:52.818585 25408 net.cpp:194] loss needs backward computation.
+I1009 18:39:52.818590 25408 net.cpp:196] accuracy does not need backward computation.
+I1009 18:39:52.818595 25408 net.cpp:194] fc8_fc8_0_split needs backward computation.
+I1009 18:39:52.818600 25408 net.cpp:194] fc8 needs backward computation.
+I1009 18:39:52.818605 25408 net.cpp:194] drop7 needs backward computation.
+I1009 18:39:52.818609 25408 net.cpp:194] relu7 needs backward computation.
+I1009 18:39:52.818614 25408 net.cpp:194] fc7 needs backward computation.
+I1009 18:39:52.818619 25408 net.cpp:194] drop6 needs backward computation.
+I1009 18:39:52.818624 25408 net.cpp:194] relu6 needs backward computation.
+I1009 18:39:52.818629 25408 net.cpp:194] fc6 needs backward computation.
+I1009 18:39:52.818634 25408 net.cpp:194] pool5 needs backward computation.
+I1009 18:39:52.818639 25408 net.cpp:194] relu5 needs backward computation.
+I1009 18:39:52.818644 25408 net.cpp:194] conv5 needs backward computation.
+I1009 18:39:52.818649 25408 net.cpp:194] relu4 needs backward computation.
+I1009 18:39:52.818653 25408 net.cpp:194] conv4 needs backward computation.
+I1009 18:39:52.818657 25408 net.cpp:194] relu3 needs backward computation.
+I1009 18:39:52.818662 25408 net.cpp:194] conv3 needs backward computation.
+I1009 18:39:52.818667 25408 net.cpp:194] norm2 needs backward computation.
+I1009 18:39:52.818672 25408 net.cpp:194] pool2 needs backward computation.
+I1009 18:39:52.818677 25408 net.cpp:194] relu2 needs backward computation.
+I1009 18:39:52.818682 25408 net.cpp:194] conv2 needs backward computation.
+I1009 18:39:52.818687 25408 net.cpp:194] norm1 needs backward computation.
+I1009 18:39:52.818692 25408 net.cpp:194] pool1 needs backward computation.
+I1009 18:39:52.818697 25408 net.cpp:194] relu1 needs backward computation.
+I1009 18:39:52.818701 25408 net.cpp:194] conv1 needs backward computation.
+I1009 18:39:52.818706 25408 net.cpp:196] label_data_1_split does not need backward computation.
+I1009 18:39:52.818712 25408 net.cpp:196] data does not need backward computation.
+I1009 18:39:52.818717 25408 net.cpp:237] This network produces output accuracy
+I1009 18:39:52.818722 25408 net.cpp:237] This network produces output loss
+I1009 18:39:52.818737 25408 net.cpp:249] Network initialization done.
+I1009 18:39:52.818742 25408 net.cpp:250] Memory required for data: 68601768
+I1009 18:39:52.818830 25408 solver.cpp:46] Solver scaffolding done.
+I1009 18:39:52.818858 25408 solver.cpp:237] Solving CaffeNet
+I1009 18:39:52.818863 25408 solver.cpp:238] Learning Rate Policy: step
+I1009 18:39:52.819947 25408 solver.cpp:281] Iteration 0, Testing net (#0)
+I1009 18:39:53.184129 25408 solver.cpp:330]     Test net output #0: accuracy = 0.46
+I1009 18:39:53.184172 25408 solver.cpp:330]     Test net output #1: loss = 0.782663 (* 1 = 0.782663 loss)
+I1009 18:39:53.230717 25408 solver.cpp:201] Iteration 0, loss = 1.24198
+I1009 18:39:53.230761 25408 solver.cpp:216]     Train net output #0: loss = 1.24198 (* 1 = 1.24198 loss)
+I1009 18:39:53.230789 25408 solver.cpp:485] Iteration 0, lr = 1e-05
+I1009 18:40:03.862954 25408 solver.cpp:201] Iteration 100, loss = 0.73665
+I1009 18:40:03.862999 25408 solver.cpp:216]     Train net output #0: loss = 0.73665 (* 1 = 0.73665 loss)
+I1009 18:40:03.863009 25408 solver.cpp:485] Iteration 100, lr = 1e-05
+*** Aborted at 1444387210 (unix time) try "date -d @1444387210" if you are using GNU date ***
+PC: @     0x7fff097fca32 (unknown)
+*** SIGTERM (@0x3ee00006038) received by PID 25408 (TID 0x7f27c6d80a40) from PID 24632; stack trace: ***
+    @     0x7f27c5810d40 (unknown)
+    @     0x7fff097fca32 (unknown)
+    @     0x7f27c58e34bd (unknown)
+    @     0x7f27a944ac4e (unknown)
+    @     0x7f27a8dae923 (unknown)
+    @     0x7f27a8d8f113 (unknown)
+    @     0x7f27a8d96828 (unknown)
+    @     0x7f27a8d87b31 (unknown)
+    @     0x7f27a8cfc05a (unknown)
+    @     0x7f27a8cfc1ca (unknown)
+    @     0x7f27a8ccdac5 (unknown)
+    @     0x7f27c5596389 (unknown)
+    @     0x7f27c55bd5a8 (unknown)
+    @     0x7f27c663d1f8 caffe::caffe_copy<>()
+    @     0x7f27c6769377 caffe::BasePrefetchingDataLayer<>::Forward_gpu()
+    @     0x7f27c6734069 caffe::Net<>::ForwardFromTo()
+    @     0x7f27c6734497 caffe::Net<>::ForwardPrefilled()
+    @     0x7f27c6727a09 caffe::Solver<>::Step()
+    @     0x7f27c672833f caffe::Solver<>::Solve()
+    @           0x4068e6 train()
+    @           0x404d51 main
+    @     0x7f27c57fbec5 (unknown)
+    @           0x4052fd (unknown)
+    @                0x0 (unknown)
+Terminated
